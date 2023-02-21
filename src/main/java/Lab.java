@@ -49,5 +49,6 @@ public class Lab {
         }
 
         return buildingString;
+        
     }
 }
